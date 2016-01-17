@@ -8,7 +8,7 @@
 			"lib": "lib"
 		},
 		"dependencies": {
-			"bitbox-pub/compiler": "github:bitbox-pub/compiler@^0.1.0"
+			"bitbox-pub/compiler": "github:bitbox-pub/compiler@master"
 		},
 		"devDependencies": {
 			"babel": "npm:babel-core@^5.8.24",
